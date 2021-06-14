@@ -1,2 +1,2 @@
 # alua
-andy's vm and compiler
+andy's lua vm and compiler
